@@ -51,7 +51,8 @@ export function Footer() {
             <div className="space-y-3">
               <a href="tel:+919793541467" className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors">
                 <Phone className="w-5 h-5" />
-                <span>+91 98765 43210</span>
+                <span>+91 97935 41467</span>
+                <span>+91 97935 41467</span>
               </a>
               <a href="mailto:contact@zapptek.online" className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors">
                 <Mail className="w-5 h-5" />
@@ -138,4 +139,5 @@ export function Footer() {
     </footer>
   );
 }
+
 
