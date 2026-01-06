@@ -61,13 +61,13 @@ export function CTASection() {
               </Link>
             </Button>
             <Button variant="whatsapp" size="xl" asChild>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919793541467" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="w-5 h-5" />
                 WhatsApp Us
               </a>
             </Button>
             <Button variant="outline-light" size="xl" asChild>
-              <a href="tel:+919876543210">
+              <a href="tel:+919793541467">
                 <Phone className="w-5 h-5" />
                 Call Now
               </a>
@@ -101,3 +101,4 @@ export function CTASection() {
     </section>
   );
 }
+
