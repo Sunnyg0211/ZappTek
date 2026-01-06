@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 const stats = [
   { value: "15+", label: "Years Experience" },
-  { value: "5000+", label: "Happy Customers" },
+  { value: "3000+", label: "Happy Customers" },
   { value: "50+", label: "Expert Technicians" },
   { value: "24/7", label: "Support Available" },
 ];
@@ -30,18 +30,18 @@ const values = [
 
 const team = [
   {
-    name: "Vikram Sharma",
-    role: "Founder & CEO",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=faces",
+    name: "Prabhat Gupta",
+    role: "Co-Founder & CTO",
+    image: "https://photos.app.goo.gl/gyFGnAHpFcwitEKP8",
   },
   {
-    name: "Priya Patel",
+    name: "Neha Gupta",
     role: "Technical Director",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&crop=faces",
   },
   {
-    name: "Rajesh Kumar",
-    role: "Operations Manager",
+    name: "Vaibhav Thakur",
+    role: "Chief Operations & Hardware Officer (COHO)",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=faces",
   },
   {
@@ -241,3 +241,4 @@ const About = () => {
 };
 
 export default About;
+
