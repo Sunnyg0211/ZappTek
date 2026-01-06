@@ -49,17 +49,17 @@ export function Footer() {
               Your trusted partner for IT solutions. We provide comprehensive computer, laptop, and network services for homes and businesses.
             </p>
             <div className="space-y-3">
-              <a href="tel:+919876543210" className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors">
+              <a href="tel:+919793541467" className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors">
                 <Phone className="w-5 h-5" />
                 <span>+91 98765 43210</span>
               </a>
-              <a href="mailto:support@zapptek.com" className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors">
+              <a href="mailto:contact@zapptek.online" className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors">
                 <Mail className="w-5 h-5" />
-                <span>support@zapptek.com</span>
+                <span>contact@zapptek.online</span>
               </a>
               <div className="flex items-start gap-3 text-secondary-foreground/70">
                 <MapPin className="w-5 h-5 mt-0.5" />
-                <span>123 Tech Park, Electronic City<br />Bangalore, Karnataka 560100</span>
+                <span>Navghar Road, Bhayander East, Thane, Maharashtra 401105</span>
               </div>
             </div>
           </div>
@@ -138,3 +138,4 @@ export function Footer() {
     </footer>
   );
 }
+
